@@ -1,5 +1,5 @@
 # PRODIGY_WD_04
-# Portfolio Website
+# Personal Portfolio Website
 
 Welcome to my personal portfolio website! This repository contains the source code and assets for my portfolio, showcasing my skills, projects, and contact information.
 
